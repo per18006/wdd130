@@ -1,0 +1,43 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 100px;
+    padding: 30px;
+}
+.pic1{
+    width: 30%;
+    padding: 30px;
+}
+.pic2{
+    width: 16%;
+    padding: 30px;
+}
+/* Basic styling for header and footer */
+header, footer {
+    background-color: #188FFF;
+    color: #191516;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Navigation menu styling */
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Main content styling */
+main {
+    margin: 20px;
+}
